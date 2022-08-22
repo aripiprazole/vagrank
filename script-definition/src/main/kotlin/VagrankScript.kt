@@ -1,4 +1,4 @@
-package com.lorenzoog.vagrank.script.definition
+package me.devgabi.vagrank.script.definition
 
 import kotlin.script.experimental.annotations.KotlinScript
 import kotlin.script.experimental.api.*

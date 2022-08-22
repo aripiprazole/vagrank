@@ -1,7 +1,7 @@
-package com.lorenzoog.vagrank.script.definition
+package me.devgabi.vagrank.script.definition
 
 const val FileExtension = "vagrankfile.kts"
 
 val DefaultImports = listOf(
-    "com.lorenzoog.vagrank.script.definition.api.*"
+    "me.devgabi.vagrank.script.definition.api.*"
 )

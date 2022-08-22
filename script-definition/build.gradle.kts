@@ -3,7 +3,7 @@ plugins {
     java
 }
 
-group = "com.lorenzoog"
+group = "me.devgabi"
 version = "1.0-SNAPSHOT"
 
 java.sourceCompatibility = JavaVersion.VERSION_1_8

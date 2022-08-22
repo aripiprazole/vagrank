@@ -1,6 +1,6 @@
-package com.lorenzoog.vagrank.cli
+package me.devgabi.vagrank.cli
 
-import com.lorenzoog.vagrank.script.host.ScriptCompiler
+import me.devgabi.vagrank.script.host.ScriptCompiler
 import java.io.File
 
 val compiler = ScriptCompiler()

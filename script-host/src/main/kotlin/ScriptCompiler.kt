@@ -1,6 +1,6 @@
-package com.lorenzoog.vagrank.script.host
+package me.devgabi.vagrank.script.host
 
-import com.lorenzoog.vagrank.script.definition.VagrankScript
+import me.devgabi.vagrank.script.definition.VagrankScript
 import kotlinx.coroutines.CoroutineName
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.SupervisorJob

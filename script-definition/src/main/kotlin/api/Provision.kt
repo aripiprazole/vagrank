@@ -1,4 +1,4 @@
-package com.lorenzoog.vagrank.script.definition.api
+package me.devgabi.vagrank.script.definition.api
 
 sealed class Provision {
     class Shell(var path: String, var args: List<String>, var privileged: Boolean) : Provision()
